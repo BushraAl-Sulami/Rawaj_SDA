@@ -1,5 +1,13 @@
-<<<<<<< HEAD
-# Rawaj - Group 04
+# Rawaj SDA Bootcamp - Group 04
+
+This collaborative project was developed by Group 04 as part of the SDA Bootcamp. Contributor GitHub profiles are listed below.
+
+## Contributors
+
+- [Fatimah Al-Amri](https://github.com/fatimah-ai2002)
+- [Shaima Al-Tukhaifi](https://github.com/Shtukhaifi)
+- [Alanoud Al-Dawish](https://github.com/Alanoudfd)
+- [Bushra Al-Sulami]
 
 Rawaj analyzes restaurant Instagram evidence, identifies marketing gaps, manages outreach and follow-ups, and generates a reviewed 30-day marketing plan. Agency staff and restaurant owners use separate interfaces connected to the same FastAPI backend.
 
@@ -142,6 +150,3 @@ Application source files keep their original module layout under `02_src/`. Chan
 The original working project is separate from this submission. The two selected root SQLite databases are included as consistent snapshots in `01_data/`. Committed WAL data is incorporated into those files. `.env`, separate SQLite sidecars, handoff queues, logs, caches, backups and virtual environments remain excluded. Dataset content and Saudi calendar dates are preserved as supplied; packaging does not certify their completeness or model accuracy.
 
 Packaging checks cover syntax, relocated data loading and isolated API startup. No live model generation or email delivery was performed as part of packaging.
-=======
-# Rawaj_SDA
->>>>>>> 11a270411aeb3096c4360305e7cda5c984b2ea58
