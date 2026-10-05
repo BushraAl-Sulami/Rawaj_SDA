@@ -1,4 +1,4 @@
-# Rawaj SDA Bootcamp - Group 04
+# Rawaj SDA Bootcamp
 
 This collaborative project was developed by Group 04 as part of the SDA Bootcamp. Contributor GitHub profiles are listed below.
 
