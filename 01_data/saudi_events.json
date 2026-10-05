@@ -1,0 +1,51 @@
+{
+  "period": {
+    "from": "2026-09-19",
+    "to": "2027-09-19"
+  },
+
+  "events": [
+    {
+      "event": "Saudi National Day",
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "type": "national",
+      "date_status": "confirmed"
+    },
+    {
+      "event": "Ramadan",
+      "start_date": "2027-02-08",
+      "end_date": "2027-03-09",
+      "type": "religious",
+      "date_status": "tentative"
+    },
+    {
+      "event": "Saudi Founding Day",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-22",
+      "type": "national",
+      "date_status": "confirmed"
+    },
+    {
+      "event": "Eid Al-Fitr",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-11",
+      "type": "religious",
+      "date_status": "tentative"
+    },
+    {
+      "event": "Arafat Day",
+      "start_date": "2027-05-15",
+      "end_date": "2027-05-15",
+      "type": "religious",
+      "date_status": "tentative"
+    },
+    {
+      "event": "Eid Al-Adha",
+      "start_date": "2027-05-16",
+      "end_date": "2027-05-18",
+      "type": "religious",
+      "date_status": "tentative"
+    }
+  ]
+}

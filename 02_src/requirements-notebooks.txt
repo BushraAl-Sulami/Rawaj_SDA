@@ -1,0 +1,4 @@
+jupyterlab
+ipykernel
+pandas
+nbformat

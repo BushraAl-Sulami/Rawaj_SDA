@@ -1,0 +1,3 @@
+# Include the selected, self-contained database snapshots in this submission.
+!/01_data/rawaj.db
+!/01_data/rawaj_outreach_checkpoints_demo3.sqlite
