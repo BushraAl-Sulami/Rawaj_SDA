@@ -7,7 +7,7 @@ This collaborative project was developed by Group 04 as part of the SDA Bootcamp
 - [Fatimah Al-Amri](https://github.com/fatimah-ai2002)
 - [Shaima Al-Tukhaifi](https://github.com/Shtukhaifi)
 - [Alanoud Al-Dawish](https://github.com/Alanoudfd)
-- [Bushra Al-Sulami]
+- Bushra Al-Sulami
 
 Rawaj analyzes restaurant Instagram evidence, identifies marketing gaps, manages outreach and follow-ups, and generates a reviewed 30-day marketing plan. Agency staff and restaurant owners use separate interfaces connected to the same FastAPI backend.
 
